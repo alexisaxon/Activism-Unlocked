@@ -1,4 +1,4 @@
-# hackeymackey112
+# Activism Unlocked
 
 Our project is designed to make political engagement faster and easier than ever. Users begin by taking a brief quiz on their political beliefs to determine which issues they are most passionate about and their stances on those particular issues. After the quiz, users are automatically redirected to another page, where they are presented with an automatically-generated email to one of their congressional representatives.
 
